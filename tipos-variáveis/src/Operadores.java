@@ -110,8 +110,8 @@ relacionais
         simNao = numero1 > numero2;
 
         System.out.println("numeroUm é maior que numeroDois? " + simNao);
-*/    
-//lógicos
+    
+lógicos
 
          boolean condicao = true;
 
@@ -126,6 +126,6 @@ relacionais
          }
 
          System.out.println("fim");
-
+*/
     }
 }
